@@ -1,2 +1,2 @@
 # webpack5
-Webpack for Three.js
+Webpack 5 for Three.js!
